@@ -1,0 +1,17 @@
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.Form1.resources
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.exe
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.deps.json
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.runtimeconfig.json
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.dll
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.pdb
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.dll
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\obj\Debug\net7.0-windows\refint\Calculadora.dll
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.pdb
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Calculadora\Calculadora\obj\Debug\net7.0-windows\ref\Calculadora.dll
