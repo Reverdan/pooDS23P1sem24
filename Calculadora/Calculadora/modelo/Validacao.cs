@@ -24,7 +24,7 @@ namespace Calculadora.modelo
             }
             catch (Exception erro)
             {
-                mensagem = "Números inválidos";
+                mensagem = "Digite números válidos";
             }
         }
 
