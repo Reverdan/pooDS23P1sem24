@@ -8,13 +8,13 @@ namespace Calculadora.modelo
 {
     public class Calculos
     {
-        public int n1;
-        public int n2;
-        public int resposta;
-
-        public void calcular()
+        public int Calcular(int n1, int n2, string op)
         {
-            resposta = n1 + n2;
+            if (op.Equals("+")) return n1 + n2;
+            if (op.Equals("-")) return n1 - n2;
+            if (op.Equals("*")) return n1 * n2;
+            if (op.Equals("/")) return n1 / n2;
+            return 0;
         }
     }
 }
