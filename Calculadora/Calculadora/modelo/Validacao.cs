@@ -8,11 +8,26 @@ namespace Calculadora.modelo
 {
     public class Validacao
     {
-        public int n1;
-        public int n2;
-        public string mensagem;
+        private string num1;
+        private string num2;
+        private string op;
+        
+        private int n1;
+        private int n2;
+        private string mensagem;
 
-        public void Validar(string num1, string num2, string op)
+        /// Comunicação por método construtor
+        /// Poderia ter sido feito a sobrecarga para valores diferentes
+
+        public Validacao(string num1, string num2, string op)
+        {
+            this.num1 = num1;
+            this.num2 = num2;
+            this.op = op;
+            this.Validar();
+        }
+
+        private void Validar()
         {
             mensagem = "";
             try
@@ -26,6 +41,21 @@ namespace Calculadora.modelo
             {
                 mensagem = "Digite números válidos";
             }
+        }
+
+        public string Mensagem
+        {
+            get { return mensagem; }
+        }
+
+        public int N1
+        {
+            get => n1;
+        }
+
+        public int N2
+        {
+            get => n2;
         }
 
     }

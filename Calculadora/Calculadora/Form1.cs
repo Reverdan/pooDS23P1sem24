@@ -12,12 +12,11 @@ namespace Calculadora
 
         private void Calcular(string op)
         {
-            Controle controle = new Controle();
-            controle.Executar(txbPrimeiroNumero.Text, txbSegundoNumero.Text, op);
-            if (controle.mensagem.Equals(""))
-                lblResultado.Text = controle.resultado;
+            Controle controle = new Controle(txbPrimeiroNumero.Text, txbSegundoNumero.Text, op);
+            if (controle.Mensagem.Equals(""))
+                lblResultado.Text = controle.Resultado;
             else
-                lblResultado.Text = controle.mensagem;
+                lblResultado.Text = controle.Mensagem;
         }
 
         private void btnSomar_Click(object sender, EventArgs e)
