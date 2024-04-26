@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace VerificarPrimo.modelo
 {
-    internal class Controle
+    internal sealed class Controle : AbsPropriedades
     {
-		private string mensagem;
-		private string numero;
-
         public Controle(string numero)
         {
             this.numero = numero;
@@ -20,21 +17,15 @@ namespace VerificarPrimo.modelo
         private void Executar()
         {
             Validacao validacao = new Validacao(numero);
-            if (validacao.Mensagem.Equals(""))
+            if (validacao.mensagem.Equals(""))
             {
-                Primo primo = new Primo(validacao.N1);
-                this.mensagem = primo.Mensagem;
+                Primo primo = new Primo(validacao.n1);
+                this.mensagem = primo.mensagem;
             }
             else
             {
-                this.mensagem = validacao.Mensagem;
+                this.mensagem = validacao.mensagem;
             }
         }
-
-        public string Mensagem
-		{
-			get { return mensagem; }
-		}
-
 	}
 }

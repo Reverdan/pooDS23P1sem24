@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace VerificarPrimo.modelo
 {
-    internal class Validacao
+    internal class Validacao : AbsPropriedades
     {
-		private string mensagem;
-		private int n1;
-		private string numero;
-
         public Validacao(string numero)
         {
             this.numero = numero;
@@ -30,16 +26,5 @@ namespace VerificarPrimo.modelo
 				this.mensagem = "Digite um número válido";
 			}
 		}
-
-        public int N1
-		{
-			get { return n1; }
-		}
-
-		public string Mensagem
-		{
-			get { return mensagem; }
-		}
-
 	}
 }

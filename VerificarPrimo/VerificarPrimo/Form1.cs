@@ -13,7 +13,7 @@ namespace VerificarPrimo
         private void btnVerificar_Click(object sender, EventArgs e)
         {
             Controle controle = new Controle(txbNumero.Text);
-            lblResposta.Text = controle.Mensagem;
+            lblResposta.Text = controle.mensagem;
         }
     }
 }

@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\VerificarPrimo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59392E86-D93B-48F4-AEA3-779D4D65F960}|VerificarPrimo\\VerificarPrimo.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\verificarprimo\\verificarprimo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59392E86-D93B-48F4-AEA3-779D4D65F960}|VerificarPrimo\\VerificarPrimo.csproj|solutionrelative:verificarprimo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59392E86-D93B-48F4-AEA3-779D4D65F960}|VerificarPrimo\\VerificarPrimo.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\verificarprimo\\verificarprimo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{59392E86-D93B-48F4-AEA3-779D4D65F960}|VerificarPrimo\\VerificarPrimo.csproj|solutionrelative:verificarprimo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59392E86-D93B-48F4-AEA3-779D4D65F960}|VerificarPrimo\\VerificarPrimo.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\verificarprimo\\verificarprimo\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59392E86-D93B-48F4-AEA3-779D4D65F960}|VerificarPrimo\\VerificarPrimo.csproj|solutionrelative:verificarprimo\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59392E86-D93B-48F4-AEA3-779D4D65F960}|VerificarPrimo\\VerificarPrimo.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\verificarprimo\\verificarprimo\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59392E86-D93B-48F4-AEA3-779D4D65F960}|VerificarPrimo\\VerificarPrimo.csproj|solutionrelative:verificarprimo\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59392E86-D93B-48F4-AEA3-779D4D65F960}|VerificarPrimo\\VerificarPrimo.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\verificarprimo\\verificarprimo\\modelo\\primo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59392E86-D93B-48F4-AEA3-779D4D65F960}|VerificarPrimo\\VerificarPrimo.csproj|solutionrelative:verificarprimo\\modelo\\primo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{59392E86-D93B-48F4-AEA3-779D4D65F960}|VerificarPrimo\\VerificarPrimo.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\verificarprimo\\verificarprimo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59392E86-D93B-48F4-AEA3-779D4D65F960}|VerificarPrimo\\VerificarPrimo.csproj|solutionrelative:verificarprimo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59392E86-D93B-48F4-AEA3-779D4D65F960}|VerificarPrimo\\VerificarPrimo.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\verificarprimo\\verificarprimo\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59392E86-D93B-48F4-AEA3-779D4D65F960}|VerificarPrimo\\VerificarPrimo.csproj|solutionrelative:verificarprimo\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59392E86-D93B-48F4-AEA3-779D4D65F960}|VerificarPrimo\\VerificarPrimo.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\verificarprimo\\verificarprimo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59392E86-D93B-48F4-AEA3-779D4D65F960}|VerificarPrimo\\VerificarPrimo.csproj|solutionrelative:verificarprimo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,30 +34,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "AbsPropriedades.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\VerificarPrimo\\VerificarPrimo\\modelo\\AbsPropriedades.cs",
+              "RelativeDocumentMoniker": "VerificarPrimo\\modelo\\AbsPropriedades.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\VerificarPrimo\\VerificarPrimo\\modelo\\AbsPropriedades.cs",
+              "RelativeToolTip": "VerificarPrimo\\modelo\\AbsPropriedades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T23:16:27.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\VerificarPrimo\\VerificarPrimo\\Form1.cs",
               "RelativeDocumentMoniker": "VerificarPrimo\\Form1.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\VerificarPrimo\\VerificarPrimo\\Form1.cs",
               "RelativeToolTip": "VerificarPrimo\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T00:19:09.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Primo.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\VerificarPrimo\\VerificarPrimo\\modelo\\Primo.cs",
               "RelativeDocumentMoniker": "VerificarPrimo\\modelo\\Primo.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\VerificarPrimo\\VerificarPrimo\\modelo\\Primo.cs",
               "RelativeToolTip": "VerificarPrimo\\modelo\\Primo.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAACEAAAANAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T22:55:25.1Z",
               "EditorCaption": ""
@@ -66,27 +83,27 @@
               "RelativeDocumentMoniker": "VerificarPrimo\\modelo\\Validacao.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\VerificarPrimo\\VerificarPrimo\\modelo\\Validacao.cs",
               "RelativeToolTip": "VerificarPrimo\\modelo\\Validacao.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T22:55:14.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Controle.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\VerificarPrimo\\VerificarPrimo\\modelo\\Controle.cs",
               "RelativeDocumentMoniker": "VerificarPrimo\\modelo\\Controle.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\VerificarPrimo\\VerificarPrimo\\modelo\\Controle.cs",
               "RelativeToolTip": "VerificarPrimo\\modelo\\Controle.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABsAAAAQAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T22:55:01.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\VerificarPrimo\\VerificarPrimo\\Form1.cs",
               "RelativeDocumentMoniker": "VerificarPrimo\\Form1.cs",

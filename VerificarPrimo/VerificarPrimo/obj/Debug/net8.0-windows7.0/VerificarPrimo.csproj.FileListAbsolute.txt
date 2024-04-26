@@ -1,0 +1,17 @@
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\bin\Debug\net8.0-windows7.0\VerificarPrimo.exe
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\bin\Debug\net8.0-windows7.0\VerificarPrimo.deps.json
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\bin\Debug\net8.0-windows7.0\VerificarPrimo.runtimeconfig.json
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\bin\Debug\net8.0-windows7.0\VerificarPrimo.dll
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\bin\Debug\net8.0-windows7.0\VerificarPrimo.pdb
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\obj\Debug\net8.0-windows7.0\VerificarPrimo.Form1.resources
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\obj\Debug\net8.0-windows7.0\VerificarPrimo.csproj.GenerateResource.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\obj\Debug\net8.0-windows7.0\VerificarPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\obj\Debug\net8.0-windows7.0\VerificarPrimo.AssemblyInfoInputs.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\obj\Debug\net8.0-windows7.0\VerificarPrimo.AssemblyInfo.cs
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\obj\Debug\net8.0-windows7.0\VerificarPrimo.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\obj\Debug\net8.0-windows7.0\VerificarPrimo.sourcelink.json
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\obj\Debug\net8.0-windows7.0\VerificarPrimo.dll
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\obj\Debug\net8.0-windows7.0\refint\VerificarPrimo.dll
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\obj\Debug\net8.0-windows7.0\VerificarPrimo.pdb
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\obj\Debug\net8.0-windows7.0\VerificarPrimo.genruntimeconfig.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\VerificarPrimo\VerificarPrimo\obj\Debug\net8.0-windows7.0\ref\VerificarPrimo.dll

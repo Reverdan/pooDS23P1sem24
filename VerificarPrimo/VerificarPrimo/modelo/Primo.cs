@@ -7,11 +7,8 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace VerificarPrimo.modelo
 {
-    internal class Primo
+    internal class Primo : AbsPropriedades
     {
-		private string mensagem;
-		private int num;
-
         public Primo(int num)
         {
             this.num = num;
@@ -33,11 +30,5 @@ namespace VerificarPrimo.modelo
                 }
             }
         }
-
-        public string Mensagem
-		{
-			get { return mensagem; }
-		}
-
 	}
 }
