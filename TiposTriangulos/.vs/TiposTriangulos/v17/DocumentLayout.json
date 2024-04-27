@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\TiposTriangulos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17334C40-FD45-4D4B-96E0-8FB9C2AF1DE3}|TiposTriangulos\\TiposTriangulos.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\tipostriangulos\\tipostriangulos\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17334C40-FD45-4D4B-96E0-8FB9C2AF1DE3}|TiposTriangulos\\TiposTriangulos.csproj|solutionrelative:tipostriangulos\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17334C40-FD45-4D4B-96E0-8FB9C2AF1DE3}|TiposTriangulos\\TiposTriangulos.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\tipostriangulos\\tipostriangulos\\modelo\\triangulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17334C40-FD45-4D4B-96E0-8FB9C2AF1DE3}|TiposTriangulos\\TiposTriangulos.csproj|solutionrelative:tipostriangulos\\modelo\\triangulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17334C40-FD45-4D4B-96E0-8FB9C2AF1DE3}|TiposTriangulos\\TiposTriangulos.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\tipostriangulos\\tipostriangulos\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17334C40-FD45-4D4B-96E0-8FB9C2AF1DE3}|TiposTriangulos\\TiposTriangulos.csproj|solutionrelative:tipostriangulos\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17334C40-FD45-4D4B-96E0-8FB9C2AF1DE3}|TiposTriangulos\\TiposTriangulos.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\tipostriangulos\\tipostriangulos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17334C40-FD45-4D4B-96E0-8FB9C2AF1DE3}|TiposTriangulos\\TiposTriangulos.csproj|solutionrelative:tipostriangulos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17334C40-FD45-4D4B-96E0-8FB9C2AF1DE3}|TiposTriangulos\\TiposTriangulos.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\tipostriangulos\\tipostriangulos\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17334C40-FD45-4D4B-96E0-8FB9C2AF1DE3}|TiposTriangulos\\TiposTriangulos.csproj|solutionrelative:tipostriangulos\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulos.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\TiposTriangulos\\TiposTriangulos\\Modelo\\Triangulos.cs",
+              "RelativeDocumentMoniker": "TiposTriangulos\\Modelo\\Triangulos.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\TiposTriangulos\\TiposTriangulos\\Modelo\\Triangulos.cs",
+              "RelativeToolTip": "TiposTriangulos\\Modelo\\Triangulos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:17:26.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AbsPropriedades.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\TiposTriangulos\\TiposTriangulos\\Modelo\\AbsPropriedades.cs",
+              "RelativeDocumentMoniker": "TiposTriangulos\\Modelo\\AbsPropriedades.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\TiposTriangulos\\TiposTriangulos\\Modelo\\AbsPropriedades.cs",
+              "RelativeToolTip": "TiposTriangulos\\Modelo\\AbsPropriedades.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:17:11.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validacao.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\TiposTriangulos\\TiposTriangulos\\Modelo\\Validacao.cs",
+              "RelativeDocumentMoniker": "TiposTriangulos\\Modelo\\Validacao.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\TiposTriangulos\\TiposTriangulos\\Modelo\\Validacao.cs",
+              "RelativeToolTip": "TiposTriangulos\\Modelo\\Validacao.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:16:56.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\TiposTriangulos\\TiposTriangulos\\Modelo\\Controle.cs",
+              "RelativeDocumentMoniker": "TiposTriangulos\\Modelo\\Controle.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\TiposTriangulos\\TiposTriangulos\\Modelo\\Controle.cs",
+              "RelativeToolTip": "TiposTriangulos\\Modelo\\Controle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:16:46.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\TiposTriangulos\\TiposTriangulos\\Form1.cs",
+              "RelativeDocumentMoniker": "TiposTriangulos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\TiposTriangulos\\TiposTriangulos\\Form1.cs [Projeto]",
+              "RelativeToolTip": "TiposTriangulos\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:14:57.293Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
