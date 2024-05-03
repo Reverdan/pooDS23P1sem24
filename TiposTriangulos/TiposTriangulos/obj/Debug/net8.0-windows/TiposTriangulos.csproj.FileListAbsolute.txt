@@ -1,0 +1,17 @@
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\bin\Debug\net8.0-windows\TiposTriangulos.exe
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\bin\Debug\net8.0-windows\TiposTriangulos.deps.json
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\bin\Debug\net8.0-windows\TiposTriangulos.runtimeconfig.json
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\bin\Debug\net8.0-windows\TiposTriangulos.dll
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\bin\Debug\net8.0-windows\TiposTriangulos.pdb
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\obj\Debug\net8.0-windows\TiposTriangulos.Form1.resources
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\obj\Debug\net8.0-windows\TiposTriangulos.csproj.GenerateResource.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\obj\Debug\net8.0-windows\TiposTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\obj\Debug\net8.0-windows\TiposTriangulos.AssemblyInfoInputs.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\obj\Debug\net8.0-windows\TiposTriangulos.AssemblyInfo.cs
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\obj\Debug\net8.0-windows\TiposTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\obj\Debug\net8.0-windows\TiposTriangulos.sourcelink.json
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\obj\Debug\net8.0-windows\TiposTriangulos.dll
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\obj\Debug\net8.0-windows\refint\TiposTriangulos.dll
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\obj\Debug\net8.0-windows\TiposTriangulos.pdb
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\obj\Debug\net8.0-windows\TiposTriangulos.genruntimeconfig.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\TiposTriangulos\TiposTriangulos\obj\Debug\net8.0-windows\ref\TiposTriangulos.dll

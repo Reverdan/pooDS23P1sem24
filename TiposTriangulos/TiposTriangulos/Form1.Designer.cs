@@ -94,6 +94,7 @@
             btnVerificar.TabIndex = 6;
             btnVerificar.Text = "Verificar";
             btnVerificar.UseVisualStyleBackColor = true;
+            btnVerificar.Click += btnVerificar_Click;
             // 
             // lblResultado
             // 

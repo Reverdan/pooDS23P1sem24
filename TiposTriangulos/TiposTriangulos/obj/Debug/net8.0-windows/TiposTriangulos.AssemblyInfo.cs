@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiposTriangulos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e2c61f480a278e9e278819c2366f49dd40e3917")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d45b7ab5abb8e9cc295a558bf5c6b188d6a5458")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiposTriangulos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiposTriangulos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

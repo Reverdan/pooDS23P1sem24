@@ -18,7 +18,19 @@ namespace TiposTriangulos.Modelo
 
         private void Executar()
         {
-
+            this.mensagem = "";
+            Validacao validacao = new Validacao(
+                this.lado1, this.lado2, this.lado3);
+            if (validacao.mensagem.Equals(""))
+            {
+                Triangulos triangulos = new Triangulos(
+                    validacao.l1, validacao.l2, validacao.l3);
+                this.mensagem = triangulos.mensagem;
+            }
+            else
+            {
+                this.mensagem = validacao.mensagem;
+            }
         }
     }
 }
