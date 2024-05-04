@@ -8,15 +8,11 @@ namespace TiposTriangulos.Modelo
 {
     internal sealed class Validacao : AbsPropriedades
     {
-        public Validacao(string lado1, string lado2, string lado3)
+        public Validacao(string lado1, string lado2, string lado3) : base(lado1, lado2, lado3)
         {
-            this.lado1 = lado1;
-            this.lado2 = lado2;
-            this.lado3 = lado3;
-            this.Executar();
         }
 
-        private void Executar()
+        public override void Executar()
         {
             this.mensagem = "";
             try
@@ -35,7 +31,9 @@ namespace TiposTriangulos.Modelo
             {
                 this.mensagem = "Digite números válidos";
             }
-
         }
     }
 }
+
+
+

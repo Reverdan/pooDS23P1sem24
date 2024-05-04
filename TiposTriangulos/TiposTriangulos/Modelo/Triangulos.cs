@@ -8,15 +8,11 @@ namespace TiposTriangulos.Modelo
 {
     internal sealed class Triangulos : AbsPropriedades
     {
-        public Triangulos(int l1, int l2, int l3)
+        public Triangulos(int l1, int l2, int l3) : base(l1, l2, l3)
         {
-            this.l1 = l1;
-            this.l2 = l2;
-            this.l3 = l3;
-            this.Executar();
         }
 
-        private void Executar()
+        public override void Executar()
         {
             if (l1 == l2 && l2 == l3)
                 this.mensagem = "Triângulo Equilátero";
@@ -30,3 +26,6 @@ namespace TiposTriangulos.Modelo
         }
     }
 }
+
+
+
