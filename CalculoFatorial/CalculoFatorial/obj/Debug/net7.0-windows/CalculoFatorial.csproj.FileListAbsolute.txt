@@ -1,0 +1,17 @@
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\bin\Debug\net7.0-windows\CalculoFatorial.exe
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\bin\Debug\net7.0-windows\CalculoFatorial.deps.json
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\bin\Debug\net7.0-windows\CalculoFatorial.runtimeconfig.json
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\bin\Debug\net7.0-windows\CalculoFatorial.dll
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\bin\Debug\net7.0-windows\CalculoFatorial.pdb
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\obj\Debug\net7.0-windows\CalculoFatorial.Form1.resources
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\obj\Debug\net7.0-windows\CalculoFatorial.csproj.GenerateResource.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\obj\Debug\net7.0-windows\CalculoFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\obj\Debug\net7.0-windows\CalculoFatorial.AssemblyInfoInputs.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\obj\Debug\net7.0-windows\CalculoFatorial.AssemblyInfo.cs
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\obj\Debug\net7.0-windows\CalculoFatorial.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\obj\Debug\net7.0-windows\CalculoFatorial.sourcelink.json
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\obj\Debug\net7.0-windows\CalculoFatorial.dll
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\obj\Debug\net7.0-windows\refint\CalculoFatorial.dll
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\obj\Debug\net7.0-windows\CalculoFatorial.pdb
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\obj\Debug\net7.0-windows\CalculoFatorial.genruntimeconfig.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\CalculoFatorial\CalculoFatorial\obj\Debug\net7.0-windows\ref\CalculoFatorial.dll

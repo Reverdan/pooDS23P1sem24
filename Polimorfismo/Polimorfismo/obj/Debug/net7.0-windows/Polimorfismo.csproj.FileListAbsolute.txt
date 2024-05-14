@@ -1,0 +1,17 @@
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\bin\Debug\net7.0-windows\Polimorfismo.exe
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\bin\Debug\net7.0-windows\Polimorfismo.deps.json
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\bin\Debug\net7.0-windows\Polimorfismo.runtimeconfig.json
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\bin\Debug\net7.0-windows\Polimorfismo.dll
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\bin\Debug\net7.0-windows\Polimorfismo.pdb
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\obj\Debug\net7.0-windows\Polimorfismo.Form1.resources
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\obj\Debug\net7.0-windows\Polimorfismo.csproj.GenerateResource.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\obj\Debug\net7.0-windows\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\obj\Debug\net7.0-windows\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\obj\Debug\net7.0-windows\Polimorfismo.AssemblyInfo.cs
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\obj\Debug\net7.0-windows\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\obj\Debug\net7.0-windows\Polimorfismo.sourcelink.json
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\obj\Debug\net7.0-windows\Polimorfismo.dll
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\obj\Debug\net7.0-windows\refint\Polimorfismo.dll
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\obj\Debug\net7.0-windows\Polimorfismo.pdb
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\obj\Debug\net7.0-windows\Polimorfismo.genruntimeconfig.cache
+C:\Users\Rever\Documents\GitHub\pooDS23P1sem24\Polimorfismo\Polimorfismo\obj\Debug\net7.0-windows\ref\Polimorfismo.dll

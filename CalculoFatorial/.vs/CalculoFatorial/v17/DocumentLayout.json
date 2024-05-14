@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\CalculoFatorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F324B448-A2AB-4F7F-8EE8-1DEB08AAD161}|CalculoFatorial\\CalculoFatorial.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\calculofatorial\\calculofatorial\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F324B448-A2AB-4F7F-8EE8-1DEB08AAD161}|CalculoFatorial\\CalculoFatorial.csproj|solutionrelative:calculofatorial\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F324B448-A2AB-4F7F-8EE8-1DEB08AAD161}|CalculoFatorial\\CalculoFatorial.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\calculofatorial\\calculofatorial\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F324B448-A2AB-4F7F-8EE8-1DEB08AAD161}|CalculoFatorial\\CalculoFatorial.csproj|solutionrelative:calculofatorial\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F324B448-A2AB-4F7F-8EE8-1DEB08AAD161}|CalculoFatorial\\CalculoFatorial.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\calculofatorial\\calculofatorial\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F324B448-A2AB-4F7F-8EE8-1DEB08AAD161}|CalculoFatorial\\CalculoFatorial.csproj|solutionrelative:calculofatorial\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F324B448-A2AB-4F7F-8EE8-1DEB08AAD161}|CalculoFatorial\\CalculoFatorial.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\calculofatorial\\calculofatorial\\modelo\\calculofatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F324B448-A2AB-4F7F-8EE8-1DEB08AAD161}|CalculoFatorial\\CalculoFatorial.csproj|solutionrelative:calculofatorial\\modelo\\calculofatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F324B448-A2AB-4F7F-8EE8-1DEB08AAD161}|CalculoFatorial\\CalculoFatorial.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\calculofatorial\\calculofatorial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F324B448-A2AB-4F7F-8EE8-1DEB08AAD161}|CalculoFatorial\\CalculoFatorial.csproj|solutionrelative:calculofatorial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F324B448-A2AB-4F7F-8EE8-1DEB08AAD161}|CalculoFatorial\\CalculoFatorial.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\calculofatorial\\calculofatorial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F324B448-A2AB-4F7F-8EE8-1DEB08AAD161}|CalculoFatorial\\CalculoFatorial.csproj|solutionrelative:calculofatorial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F324B448-A2AB-4F7F-8EE8-1DEB08AAD161}|CalculoFatorial\\CalculoFatorial.csproj|c:\\users\\rever\\documents\\github\\poods23p1sem24\\calculofatorial\\calculofatorial\\modelo\\estaticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F324B448-A2AB-4F7F-8EE8-1DEB08AAD161}|CalculoFatorial\\CalculoFatorial.csproj|solutionrelative:calculofatorial\\modelo\\estaticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\CalculoFatorial\\CalculoFatorial\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculoFatorial\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\CalculoFatorial\\CalculoFatorial\\Form1.cs",
+              "RelativeToolTip": "CalculoFatorial\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:04:13.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\CalculoFatorial\\CalculoFatorial\\modelo\\Controle.cs",
+              "RelativeDocumentMoniker": "CalculoFatorial\\modelo\\Controle.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\CalculoFatorial\\CalculoFatorial\\modelo\\Controle.cs",
+              "RelativeToolTip": "CalculoFatorial\\modelo\\Controle.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T00:11:09.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculoFatorial.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\CalculoFatorial\\CalculoFatorial\\modelo\\CalculoFatorial.cs",
+              "RelativeDocumentMoniker": "CalculoFatorial\\modelo\\CalculoFatorial.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\CalculoFatorial\\CalculoFatorial\\modelo\\CalculoFatorial.cs",
+              "RelativeToolTip": "CalculoFatorial\\modelo\\CalculoFatorial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T00:10:55.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Validacao.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\CalculoFatorial\\CalculoFatorial\\modelo\\Validacao.cs",
+              "RelativeDocumentMoniker": "CalculoFatorial\\modelo\\Validacao.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\CalculoFatorial\\CalculoFatorial\\modelo\\Validacao.cs",
+              "RelativeToolTip": "CalculoFatorial\\modelo\\Validacao.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T00:10:35.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Estaticos.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\CalculoFatorial\\CalculoFatorial\\modelo\\Estaticos.cs",
+              "RelativeDocumentMoniker": "CalculoFatorial\\modelo\\Estaticos.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\CalculoFatorial\\CalculoFatorial\\modelo\\Estaticos.cs",
+              "RelativeToolTip": "CalculoFatorial\\modelo\\Estaticos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T00:10:13.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbsPropriedades.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\CalculoFatorial\\CalculoFatorial\\modelo\\AbsPropriedades.cs",
+              "RelativeDocumentMoniker": "CalculoFatorial\\modelo\\AbsPropriedades.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\CalculoFatorial\\CalculoFatorial\\modelo\\AbsPropriedades.cs",
+              "RelativeToolTip": "CalculoFatorial\\modelo\\AbsPropriedades.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T00:09:48.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\CalculoFatorial\\CalculoFatorial\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculoFatorial\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\pooDS23P1sem24\\CalculoFatorial\\CalculoFatorial\\Form1.cs [Projeto]",
+              "RelativeToolTip": "CalculoFatorial\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T00:05:59.936Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
